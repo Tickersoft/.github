@@ -33,17 +33,17 @@ Inspired by Frogfind but operating on steroids. It fetches web results cleanly w
 
 A full, lightweight productivity suite running right in your browser.
 
-* **Online Documents & Storage**
+* **Tickermail:** A fully functional IMAP/SMTP client bridging old devices to modern email protocols.
 
-* **Spreadsheets**
+* **Online Documents & Spreadsheets** Through TickerDocs & TickerSheets
 
 * **Customizable News Feeds**
 
-* **Tickermail:** A fully functional IMAP/SMTP client bridging old devices to modern email protocols.
-
 * **Reminders & Calendar:** Complete with iCal synchronization.
 
-* **Tickerdrive:** Cloud storage solution. Uploading capabilities have been successfully proven natively on Nokia S40 devices, and downloading is universally supported.
+* **Tickerdrive:** Cloud storage solution.
+Uploading capabilities have been successfully proven natively on Nokia S40 devices, and downloading is universally supported.
+However, the current amount of per-user allocated storage is only a mere 5MB, though incase there would be a vast increase in the demand for more storage, expension packages will be organized and set up.
 
 * **Contact Management:** Easily export your contact information as `.vcf` (vCard) files directly from the platform. This ensures seamless integration and transfer of contacts to any device, new or old.
 
@@ -75,25 +75,34 @@ Unlike modern authenticator apps that track your habits, our TOTP engine is comp
 
 ## Dedicated J2ME Java Clients
 
-To mitigate browser limitations on older hardware, we are actively developing a suite of native J2ME (Java ME) applications. These clients bring advanced, modern functionality directly to your vintage phone:
+To mitigate browser limitations on older hardware, we are actively developing a suite of native J2ME (Java ME) applications. 
+These clients bring advanced, modern functionality directly to your vintage phone, such as:
 
-* **JavaChat (IT IS ALIVE!):** A functional MIDlet that lets you use Tickersoft DMs, Kchan reloaded (our help forums), and the public IRC completely natively. It actually works now!
+* **JavaChat:** A functional MIDlet that lets you use Tickersoft DMs, Kchan reloaded (our help forums), and the public IRC completely natively.
+  It actually works now!
 
-* **Tickersoft TOTP Client (ALPHA):** Generate offline codes and log into Tickersoft safely directly on the same device. You can configure this easily in your Tickerkonto Policy.
+* **Tickersoft TOTP Client (ALPHA):** Generate offline codes and log into Tickersoft safely directly on the same device.
+  You can configure this easily in your Tickerkonto Policy.
 
-* **TickerMail (PRE-ALPHA):** A dedicated, native J2ME IMAP/SMTP email client designed specifically for older hardware.
+* **TickerMail (ALPHA):** A dedicated, native J2ME IMAP/SMTP email client designed specifically for older hardware.
 
-* **MauMau (PRE-ALPHA):** Kick back with some casino-style multiplayer Crazy 8s (MauMau) right on your vintage mobile.
+* **MauMau (BETA):** Kick back with some casino-style multiplayer Crazy 8s (MauMau), Blackjack OR Texas Hold'em Poker right on your J2ME phone.
 
 ## A Healthier Digital Goal: The Philosophy
 
-The classic aesthetic is cool, but Tickersoft aims for much more than that. Our goal is to make these devices capable of handling daily essentials, becoming a lifeline against hyperconnected exhaustion. We offer the useful parts of the smartphone boom without the toxicity.
+The classic aesthetic is cool, but Tickersoft aims for much more than that. 
+Our goal is to make these devices capable of handling daily essentials, becoming a lifeline against hyperconnected exhaustion. 
+We offer the useful parts of the smartphone boom without the toxicity.
 
-Constant video and streaming mean we are always visible, fueling parasocial illusions and addictive habits that age restrictions struggle to fix. By returning to intentional connection, sharing text and photos without endless video feeds, we offer a quieter, healthier alternative.
+Constant video and streaming mean we are always visible, fueling parasocial illusions and addictive habits that age restrictions struggle to fix. 
+By returning to intentional connection, sharing text and photos without endless video feeds, we offer a quieter, healthier alternative.
 
-Tickersoft was built as a direct protest **AGAINST** the modern web's obsession with data harvesting, massive payloads, and making a quick buck off user privacy. We do not log your searches. We do not use Big Tech trackers.
+Tickersoft was built as a direct protest **AGAINST** the modern web's obsession with data harvesting, massive payloads, and making a quick buck off user privacy. 
+We do **not** log your searches. 
+We do not use Big Tech trackers.
 
-This is our attempt at the retro dream. We want classic devices made as capable as we originally hoped they would be. With our servers doing the heavy lifting, we hope to slowly contribute to a societal shift over the next 5 to 10 years, building a more sustainable relationship with technology.
+This is our attempt at the retro dream. We want classic devices made as capable as we originally hoped they would be. 
+With our servers doing the heavy lifting, we hope to slowly contribute to a societal shift over the next 5 to 10 years, building a more sustainable relationship with technology.
 
 ## Get in Touch
 
